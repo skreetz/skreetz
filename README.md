@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @skreetz
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning C++
