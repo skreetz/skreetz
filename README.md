@@ -35,4 +35,6 @@
 
 ## Onde me encontrar
 
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasmaiaa/)](https://www.linkedin.com/in/lucasmaiaa/)
+[![Gmail Badge](https://img.shields.io/badge/-lcmaia@proton.me-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lcmaia@proton.me)](mailto:lcmaia@proton.me)
 
