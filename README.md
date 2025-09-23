@@ -3,7 +3,7 @@
 
 - 🤔 Estusiasta de Cibersegurança.
 - 🎓 Estudante de Ciências da Computação.
-- 💼 Busco uma oportunidade de estagiar na área de TI.
+- 💼 Atendente de Suporte Técnico - Supranet
 
 ## Minhas Skills
 
