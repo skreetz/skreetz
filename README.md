@@ -1,9 +1,9 @@
 
 ## Sobre mim
 
-- 🤔 Estusiasta de Cibersegurança.
+- 🚀 Analista de Suporte Técnico Junior apaixonado por tecnologia e desafios.
 - 🎓 Estudante de Ciências da Computação.
-- 💼 Atendente de Suporte Técnico - Supranet
+- 🔐 Explorando o universo da Ciberseguarança, estudando vulnerabilidades, defesa cibernética
 
 ## Minhas Skills
 
